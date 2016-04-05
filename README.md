@@ -4,4 +4,5 @@
 console.log("hello world")
 console.log("必须让自己变得强大！拼了！")
 console.log("相信自己")
+console.log("加油")
 ```
