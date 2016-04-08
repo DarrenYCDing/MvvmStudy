@@ -3,4 +3,5 @@
 ```
 console.log("hello world")
 console.log("加油")
+console.log("加油")
 ```
