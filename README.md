@@ -2,5 +2,5 @@
 ### 死话唠教我如何*装B*
 ```
 console.log("hello world¡")
-console.log("加油")
+console.log("加油!")
 ```
